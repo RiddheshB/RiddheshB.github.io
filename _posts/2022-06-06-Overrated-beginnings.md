@@ -1,5 +1,5 @@
 ## Overrated beginnings
-This is my **first** blog post in 12 years.
+My first blog post in 12 years.
 
 Why did I stop blogging in 2010?
 I bet those jailbreaking tutorials would have gotten me some sweet AdSense revenue.
