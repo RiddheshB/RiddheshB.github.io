@@ -1,3 +1,4 @@
 ### Ni
 - I wish we could live beautifully for as long as possible. 
-  - The change starts with self.   
+  - But change starts with self. 
+  -   And I need to clean my room.  
