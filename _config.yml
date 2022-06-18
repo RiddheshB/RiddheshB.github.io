@@ -21,6 +21,7 @@ theme: "minima"
 rss: rss
 
 kramdown:
+    hard_wrap: true
   syntax_highlighter_opts:
     disable: true
     
