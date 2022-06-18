@@ -21,8 +21,8 @@ theme: "minima"
 rss: rss
 
 kramdown:
-    hard_wrap: true
-  syntax_highlighter_opts:
+hard_wrap: true
+syntax_highlighter_opts:
     disable: true
     
 plugins:
@@ -39,3 +39,5 @@ defaults:
       type: post
     values:
       tags: Other
+      
+
