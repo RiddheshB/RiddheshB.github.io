@@ -25,3 +25,5 @@ If I try to summarize the various advice in a few words, I get: Write more, but 
 ---
 This could just be me rationalizing the sunk cost over this experiment. 
 What do you think? Do you like my current writing more than whatever I did previously? 
+
+Oh, and the INTJ (or ESFP, same Quadra) I was talking about is Derek Sivers. I'd love write as clear (yet deep) as him one day. 
